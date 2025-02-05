@@ -1,4 +1,4 @@
-# Data Analyst and Scientist|Artificial intelligence(AI)|Machine Learning(ML)
+# Data Analyst and Scientist | Artificial intelligence(AI) | Machine Learning(ML)
 
 #### Technical Skills: Python, Excel, Data Visualization, Exploratory Data Analysis, 
 
