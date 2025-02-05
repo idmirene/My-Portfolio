@@ -20,6 +20,9 @@ Used **Excel** functions, pivot charts, and tables to clean, Visualize and analy
 
 Developed a Linear regression Model to predict the relationship between deaths and recovery cases of Covid-19 in African countries
 
+![Regression Model](https://github.com/idmirene/COVID-19-Deaths-and-recoveries-Using-Linear-Regression/blob/main/model.png)
+![2D Model Visualization](
+
 
 
 
