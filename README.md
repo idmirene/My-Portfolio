@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Excel, Data Visualization, Exploratory Data Analysis, 
 
 ### Education
-- B.S., Computer Engineering and IT | The University of Dar es Salaam (_July 2025)
+B.S., Computer Engineering and IT | The University of Dar es Salaam (_July 2025_)
 
 ### Projects
 ### Datagirls Tanzania Linkedin Profile Analysis Dashboard
@@ -17,4 +17,9 @@ Used **Excel** functions, pivot charts, and tables to clean, Visualize and analy
 **Predicitng Covid-19 Deaths and Recovery Using Linear Regression**
 [Publication](https://medium.com/@irenedeodatus21/predicting-covid-19-deaths-and-recoveries-in-africa-using-linear-regression-45a81273b991)
 
-Develop a Linear regression Model to predict the relationship between deaths and recovery cases of Covid-19 in African countries
+Developed a Linear regression Model to predict the relationship between deaths and recovery cases of Covid-19 in African countries
+
+[GitHub Repository](https://github.com/idmirene/COVID-19-Deaths-and-recoveries-Using-Linear-Regression)
+
+
+
